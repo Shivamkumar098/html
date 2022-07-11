@@ -1,0 +1,37 @@
+body {
+    font-size: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}/*#Box {
+    height: 250px;
+    background-color: blueviolet;
+    margin: 30px 40px 10px 20px;
+    padding: 30px 40px;
+    border: 3px solid #ff0000;
+}
+#PlayToy {
+    height: 200px;
+    background-color: aqua;
+    margin: 20px 40px;
+    padding: 10px 40px;
+    border: 4px solid #00ff00;
+}*/
+#Product {
+    padding: 20px 30px;
+    
+    border-bottom: 30px;
+    
+    margin: 20px 30px;
+    
+}
+.Product img{
+    background-color: aquamarine;
+    width: 120px;
+    height: auto;
+}
+.Product h2 {
+    font-size: 10px;
+}
+.range {
+    color: red;
+    
+}

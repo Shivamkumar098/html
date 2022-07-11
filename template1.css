@@ -1,0 +1,21 @@
+li {
+    float: left;
+}
+nav a{
+    width: 100px;
+    
+    
+    text-decoration: none;
+    
+    margin: auto;
+    
+
+}
+nav ul li {
+    list-style-type: none;
+    margin-top: auto;
+    color: azure;
+}
+#Container{
+    background-color: black;
+}

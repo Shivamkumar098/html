@@ -1,0 +1,19 @@
+
+.header img{
+    width: 50pxpx;
+    height: 50px;
+    background-color: blue;
+    clear: both;
+}
+.header{
+    background-color: yellow;
+    clear: both;
+}
+#menu:active li{
+    
+    top: 100%;
+    display: flex;
+    float: right;
+    color: brown;
+
+}

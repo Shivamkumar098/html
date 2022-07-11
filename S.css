@@ -1,0 +1,9 @@
+#box {
+    width: 350px;
+    height: 350px;
+    background-color: black;
+    border-radius: 60px;
+    box-shadow: 10px 15px 20px rgb(220, 206, 206);
+    /*background: linear-gradient(20deg, green, yellow);*/
+    
+}

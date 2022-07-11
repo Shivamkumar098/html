@@ -1,0 +1,92 @@
+body{
+    background-color: rgb(249, 248, 250);
+}
+#Appointment{
+    color:cadetblue;
+    font-size: 25px;
+}
+#First{
+    width: 170px;
+    height: 25px;
+    flex-wrap: wrap;
+
+}
+#Last {
+    width: 170px;
+    display: flex;
+    height: 25px;
+    flex-wrap: wrap;
+    left: 190px;
+    top: -31px;
+    position: relative;
+    
+}
+#First1 {
+    height: 25px;
+}
+#email{
+    display: flex;
+    left: 190px;
+    position: relative;
+    flex-wrap: wrap;
+    top: -70px;
+}
+#dateofappointment{
+    display: flex;
+    left: 190px;
+    top: -50px;
+    position: relative;
+    flex-wrap: wrap;
+    color: rgb(16, 85, 86);
+}
+#First2 {
+    height: 25px;
+    display: flex;
+    left: 188px;
+    top: -68px;
+    position: relative;
+    flex-wrap: wrap;       
+}
+#First3{
+    height: 27px;
+    width: 170px;
+}
+#First4{
+    height: 25px;
+    width: 170px;
+    color:cadetblue;
+}
+#Time, #dateofbirth, #email {
+    color: rgb(16, 85, 86);
+}
+#phone, #name, #question1,#question2, #question3 {
+    color: rgb(16, 85, 86);
+}
+
+#submit{
+    display: flex;
+    align-content: center;
+    background-color: indigo;
+    color: white;
+    width: 130px;
+    margin: auto;
+    height: 30px;
+    padding-top: 7px;
+    padding-left: 15px;
+    padding-bottom: 15px;
+    border-bottom-left-radius: 15px;
+    border-top-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    border-top-right-radius: 15px;
+}
+#First5{
+    display: flex;
+    width: 170px;
+    height: 27px;
+    position: relative;
+    flex-wrap: wrap;
+    top: -50px;
+    left: 185px;
+}
+
+

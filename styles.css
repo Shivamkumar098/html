@@ -1,0 +1,17 @@
+#Branches{
+    background-color: blueviolet;
+}
+#Todaydemand .Branch {
+    background-color: bisque;
+}
+#deals {
+    font-size: 3.5em;
+}
+#WhatPurpose {
+   /* background-color: rgb(50%, 100%, 70%);*/
+   background-color: #00ff00; /* This is a Hex method */
+}
+#CollegeHaving {
+    background-color: rgb(100%, 50%, 70%);
+}
+/* Nexting Concept*/

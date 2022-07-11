@@ -1,0 +1,10 @@
+[{"name": "POCO", "brand": "mi", "price": 20000, "category": "Mobiles", "rating": 4.5, "latest": true},
+    {"name": "Soap", "brand": "Dettol", "price": 10, "category": "Soaps", "rating": 5, "latest": true},
+    {"name": "shirt", "brand": "icon", "price": 1500, "category": "shirts", "rating": 8, "latest": false}
+,{"name": "pant", "brand": "Levi's", "price": 1400, "category": "textile", "rating": 7.4, "latest": true},
+{"name": "plant", "brand": "out", "price": 200, "category": "textile", "rating": 7.2, "latest": true},
+{"name": "palm", "brand": "lux", "price": 100, "category": "textile", "rating": 7.9, "latest": false},
+{"name": "panskd", "brand": "lkskds", "price": 400, "category": "textile", "rating": 7.8, "latest": true},
+{"name": "djjss", "brand": "Levi's", "price": 800, "category": "textile", "rating": 7.7, "latest": false},
+{"name": "loekd", "brand": "dkjds", "price": 1100, "category": "textile", "rating": 7.6, "latest": true},
+{"name": "sjjs", "brand": "idjs", "price": 140, "category": "textile", "rating": 7.5, "latest": true}]

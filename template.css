@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+    padding: 0px;background-color: darkgoldenrod;
+
+}
+#menu li{
+    list-style: none;
+    color: red;
+}
+header{
+    background-color: aqua;
+}
+#logo img{
+    width: 40pxpx;
+    height: 30px;
+    background-color: darkgoldenrod;
+
+}
+header.container{
+    width: 1245px;
+    margin: o auto;
+    padding: 10px;
+    
+}
+
